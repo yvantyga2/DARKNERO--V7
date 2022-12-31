@@ -14,7 +14,7 @@ Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https:
 ---
 
 <p align="center">
-<a href="https://youtu.be/57EKJWDgImE"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+<a href="#"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
 
 ------
@@ -35,7 +35,7 @@ Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https:
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/ALPHAkaveen/cyber-bot-text/fork)
+- FORK THE REPOSITORY [Here](https://github.com/Kaveeshasithum/DARKNERO--V7/fork)
 
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@nimaofficial/DARK-NERO-QR?v=1)
@@ -47,9 +47,9 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Kaveeshasithum/DARK-NERO)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Kaveeshasithum/DARKNERO--V7)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaveeshasithum/DARK-NERO/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaveeshasithum/DARKNERO--V7/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -60,7 +60,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/Kaveeshasithum/DARK-NERO.git
+git clone https://github.com/Kaveeshasithum/DARKNERO--V7.git
 cd CheemsBot-MD6
 
 npm start
@@ -77,7 +77,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD6
+git clone https://github.com/Kaveeshasithum/DARKNERO--V7
 cd CheemsBot-MD
 npm start
 ```
@@ -89,7 +89,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD6
+git clone https://github.com/Kaveeshasithum/DARKNERO--V7
 cd CheemsBot-MD6
 npm start
 ```
