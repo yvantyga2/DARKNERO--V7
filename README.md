@@ -49,9 +49,9 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Kaveeshasithum/DARKNERO--V7)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaveeshasithum/DARKNERO--V7/)
-
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaveeshasithum/DARKNERO--V7/)
 
 # Install Manually 👇
 ## `Requirements`
