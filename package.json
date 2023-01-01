@@ -1,5 +1,5 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "Dark-Nero",
   "version": "6.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "type": "commonjs",
@@ -27,6 +27,7 @@
     "awesome-phonenumber": "^2.64.0",
     "axios": "^0.24.0",
     "chalk": "^4.1.2",
+    "express": "latest",
     "cheerio": "^1.0.0-rc.12",
     "child_process": "^1.0.2",
     "crypto": "^1.0.1",
@@ -81,10 +82,10 @@
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com/DGXeon/CheemsBot-MD6.git",
+  "repository": "git+https://github.com/Kaveeshasithum/DARKNERO--V7.git",
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD6/issues"
+    "url": "https://github.com/Kaveeshasithum/DARKNERO--V7/issues"
   },
-  "homepage": "https://github.com/DGXeon/CheemsBot-MD6/#readme",
+  "homepage": "https://github.com/Kaveeshasithum/DARKNERO--V7/#readme",
   "main": "index.js"
 }
