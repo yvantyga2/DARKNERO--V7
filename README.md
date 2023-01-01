@@ -51,6 +51,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaveeshasithum/DARKNERO--V7/)
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
+
 # Install Manually 👇
 ## `Requirements`
 * [Node.js](https://nodejs.org/en/)
@@ -61,7 +63,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ## `Clone Repo & Installation dependencies`
 ```bash
 git clone https://github.com/Kaveeshasithum/DARKNERO--V7.git
-cd CheemsBot-MD6
+cd DARKNERO--V7
 
 npm start
 ```
